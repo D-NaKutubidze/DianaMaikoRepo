@@ -5,6 +5,7 @@ li{font-size: 22px; color: #EE4036;
 	width: auto;
 	height: 80px;
 	background-color: white;
+	display: inline-block;
 }
 .facebook{
 	padding-right: 20px;
@@ -13,4 +14,12 @@ li{font-size: 22px; color: #EE4036;
 .map{
 	padding-left: 600px;
 	padding-top: 59px;
+}
+.contact-info{
+	display: inline-block;
+	margin-top: 10px;
+	padding-top: 0px;
+}
+.section1{
+	background-color:grey;
 }
