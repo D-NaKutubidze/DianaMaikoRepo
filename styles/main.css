@@ -1,2 +1,14 @@
 li{font-size: 22px; color: #EE4036;
 }
+.footer{
+	margin-top: 600px;
+	background-color: white;
+	width: auto;
+	height: 80px;
+}
+.facebook{
+	padding-right: 20px;
+	padding-left: 5px;
+
+
+}
