@@ -15,8 +15,9 @@ li{font-size: 22px; color: #EE4036;
 	padding-left: 5px;
 }
 .map{
-padding-left: 40%;
-display: inline-block;
+   padding-left: 40%;
+   float: left;
+   display: inline-block;
 }
 .section1{
 	background-color:lightgrey;
@@ -40,3 +41,5 @@ span{
     width: 1366px;
     height: 570px;
 }
+.contact{
+   display:inline-block;
