@@ -1,9 +1,9 @@
 li{font-size: 22px; color: #EE4036;
 }
 .footer{
-	margin-top: 600px;
+	margin-top: 20px;
 	width: auto;
-	height: 80px;
+	height: 10px;
 	background-color: white;
 	display: inline-block;
 }
@@ -15,14 +15,13 @@ li{font-size: 22px; color: #EE4036;
 	padding-left: 5px;
 }
 .map{
-	padding-left: 600px;
-	padding-top: 59px;
-	display: inline-block;
-    vertical-align: top;
+padding-left: 40%;
+display: inline-block;
 }
-.contact-info{
+.contact{
+    vertical-align:top;
 	display: inline-block;
-	vertical-align: top;
+	margin-left: 50px;
 }
 .section1{
 	background-color:lightgrey;
@@ -35,4 +34,13 @@ span{
 }
 h1{
 	color: blue;
+}
+.contact ul li{
+	    padding: 5px;
+    font-size: 16px;
+    color: #808080;
+}
+.section1{
+	    background-color: #E6E6E6;
+    padding: 30px;
 }
