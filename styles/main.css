@@ -11,15 +11,28 @@ li{font-size: 22px; color: #EE4036;
 	padding-right: 20px;
 	padding-left: 4px;
 }
+.youtube {
+	padding-left: 5px;
+}
 .map{
 	padding-left: 600px;
 	padding-top: 59px;
+	display: inline-block;
+    vertical-align: top;
 }
 .contact-info{
-	display: inline;
-	margin-top: 10px;
-	padding-top: 0px;
+	display: inline-block;
+	vertical-align: top;
 }
 .section1{
-	background-color:grey;
+	background-color:lightgrey;
+}
+.contact-information{
+	font-size: 20px;
+}
+span{
+	color: grey;
+}
+h1{
+	color: blue;
 }
