@@ -18,9 +18,10 @@ li{font-size: 22px; color: #EE4036;
 padding-left: 40%;
 display: inline-block;
 }
-.contact{
-    vertical-align:top;
-	display: inline-block;
+.contact,.map{
+  	display: inline-block
+  	vertical-align:top;
+
 	margin-left: 50px;
 }
 .section1{
@@ -28,19 +29,18 @@ display: inline-block;
 }
 .contact-information{
 	font-size: 20px;
+	color: blue;
 }
 span{
 	color: grey;
-}
-h1{
-	color: blue;
+	font-size: 10px;
 }
 .contact ul li{
-	    padding: 5px;
+	padding: 5px;
     font-size: 16px;
     color: #808080;
 }
 .section1{
-	    background-color: #E6E6E6;
+	background-color: #E6E6E6;
     padding: 30px;
 }
