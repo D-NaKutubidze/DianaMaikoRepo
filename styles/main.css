@@ -22,10 +22,13 @@ h2{background-color: #F2F2F2; width: 500px; display: inline-block; margin-top: 3
 .left, .right{ width: 500px; display: inline-block; background-color: #F2F2F2; margin-top: 30px;
 
 }
-.main{background-color: #F2F2F2 width: 500px;
+.main{background-color: #F2F2F2 width: 500px; margin-left: 37px;
 
 }
 header{margin-left: 38px;
+
+}
+h1,h2{margin-left: 37px;
 
 }
 .news,.contact{color: #3D58A6}
