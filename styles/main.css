@@ -1,5 +1,34 @@
-li{font-size: 22px; color: #EE4036;
+li{font-size: 22px; color: #EE4036; display: inline-block;
 }
+
+.logo{display: inline-inline-block;
+
+}
+.banner{margin-left: 38px; margin-top: 60px; width: 928px; height: 595px;
+
+}
+.under{margin-top: 30px; margin-left: 39px;color: #000000; font-size: 27px;
+
+}
+h2{background-color: #F2F2F2; width: 500px; display: inline-block; margin-top: 30px; color: #3D58A6;
+
+}
+.leftphoto,.rightphoto{width: 50px; display: inline-block;
+
+}
+.lefttext,.righttext{width: 337px; display: inline-block; font-size: 20px;
+
+}
+.left, .right{ width: 500px; display: inline-block; background-color: #F2F2F2; margin-top: 30px;
+
+}
+.main{background-color: #F2F2F2 width: 500px;
+
+}
+header{margin-left: 38px;
+
+}
+.news,.contact{color: #3D58A6}
 .footer{
 	margin-top: 20px;
 	width: auto;
@@ -43,3 +72,4 @@ span{
 }
 .contact{
    display:inline-block;
+ }
