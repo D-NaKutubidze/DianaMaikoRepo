@@ -28,7 +28,7 @@ h2{background-color: #F2F2F2; width: 500px; display: inline-block; margin-top: 3
 header{margin-left: 38px;
 
 }
-h1,h2{margin-left: 37px;
+h1,h2{margin-left: 37px; font-family:fonts/roboto-regular;
 
 }
 .news,.contact{color: #3D58A6}
